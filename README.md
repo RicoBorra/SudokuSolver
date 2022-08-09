@@ -1,6 +1,6 @@
 # SudokuSolver
 
-Classic backtracking + pruning algorithm for solvin sudokus
+Backtracking + pruning algorithm for solving sudokus
 
 ---
 
