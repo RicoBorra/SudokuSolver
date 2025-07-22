@@ -1,5 +1,7 @@
 # SudokuSolver
 
+![demo](./sudoku_solver.gif)
+
 Backtracking + pruning algorithm for solving sudokus
 
 ---
